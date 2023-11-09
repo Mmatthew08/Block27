@@ -1,4 +1,5 @@
 import recipe from './components.recipeList'
+import addReceiveForm from './addReceiveForm'
 function App() {
 
     return (
